@@ -1,0 +1,192 @@
+* {
+    margin: 0;
+    padding: 0
+}
+
+.boite1 {
+    width: 60%;
+    margin: auto;
+    
+   
+}
+.bloc1{
+    position: sticky;
+    top:0px;
+}
+.concatlogo {
+    display: flex;
+    justify-content: left;
+    font-size: x-large;
+}
+
+span {
+    color: darkcyan
+}
+
+.inline {
+    display: flex;
+
+}
+
+.line {
+    text-decoration: none;
+    color: gray;
+}
+
+
+.inline li {
+    margin-left: 20px;
+    list-style: none;
+
+
+}
+
+.bloc1 {
+    display: flex;
+    justify-content: space-between;
+}
+
+.center {
+    text-align: center
+}
+
+.box1 {
+    height: 150px;
+    width: 400px;
+    line-height: 200%
+}
+
+.para {
+    display: flex;
+    justify-content: space-between;
+    color:grey;
+}
+
+.para2 {
+    display: flex;
+    justify-content: space-between;
+}
+
+.b1 {
+    height: 300px;
+    width: 300px;
+    background-color: darkturquoise;
+    color: white;
+    font-size: xx-large;
+    border-radius: 15px
+}
+
+.b2 {
+    height: 300px;
+    width: 300px;
+    background-color: cornflowerblue;
+    color: white;
+    font-size: xx-large;
+    border-radius: 15px
+}
+
+.b3 {
+    height: 300px;
+    width: 300px;
+    background-color: dimgray;
+    color: white;
+    font-size: xx-large;
+    border-radius: 15px
+}
+
+.division {
+    display: flex;
+}
+
+.flex1 {
+    flex: 1;
+    font-size: xx-large;
+    color:darkcyan
+}
+
+.flex2 {
+    flex: 2;
+    margin-left: 30px;
+    display: flex;
+    justify-content:space-between;
+    color:gray
+
+}
+
+.boite2{
+    background-color:lightskyblue;
+    height:700px;
+    width: 100%;
+    display: flex;
+    text-align: center;
+}
+
+.first{
+    margin-left: 300px;
+flex: 1
+}
+
+.second{
+    flex:2;
+    margin-right:200px;
+    
+}
+.div1{
+    background-color: whitesmoke;
+    height: 300px;
+    width:200px;
+    border-radius: 10px;
+    text-align: center;
+    position: relative;
+    top:50px;
+    left:100px;
+}
+
+.div2{
+    background-color: whitesmoke;
+    height: 300px;
+    width:200px;
+    border-radius: 10px;
+    text-align: center;
+    position: relative;
+   left:350px;
+   bottom:280px;
+}
+.div3{
+    background-color: whitesmoke;
+    height: 300px;
+    width:200px;
+    border-radius: 10px;
+    text-align: center;
+    position: relative;
+    bottom:200px;
+    left:100px;
+}
+.div4{
+    background-color: whitesmoke;
+    height: 300px;
+    width:200px;
+    border-radius: 10px;
+    text-align: center;
+    position: relative;
+    left:350px;
+    bottom:520px
+}
+.boite3{
+    text-align: center;
+}
+.boite3 h1{
+    color: darkcyan;
+}
+
+
+
+
+.foot{
+    text-align: center;
+    color: gray;
+}
+a{
+    text-decoration: none;
+    
+}
